@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd orchids-hospital-predictive-system
+   cd Hospital-predictive-system
    ```
 
 2. **Install dependencies**:
